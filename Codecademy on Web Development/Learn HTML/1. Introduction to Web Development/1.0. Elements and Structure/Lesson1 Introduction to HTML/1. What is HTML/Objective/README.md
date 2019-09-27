@@ -4,7 +4,7 @@ Welcome to the world of code! Last year, millions of learners from our community
 
 So what exactly is HTML? HTML provides structure to the content appearing on a website, such as images, text, or videos. Right-click on any page on the internet, choose “Inspect,” and you’ll see HTML in a panel of your screen.
 
-<b>HTML stands for HyperText Markup Language</b>:
+<b>HTML stands for HyperText Markup Language</b>:<br>
 A <em>markup language</em> is a computer language that defines the <code>structure and presentation of raw text</code>.
 In HTML, the computer can interpret raw text that is wrapped in HTML elements.
 <em>HyperText</em> is text displayed on a computer or device that <code>provides access to other text through links</code>, also known as <em>hyperlinks</em>. You probably clicked on a couple of hyperlinks on your way to this Codecademy course.
