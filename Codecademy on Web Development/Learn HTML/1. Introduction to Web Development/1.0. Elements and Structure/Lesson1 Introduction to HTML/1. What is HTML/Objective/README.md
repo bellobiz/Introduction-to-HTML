@@ -1,8 +1,8 @@
 <span>INTRODUCTION TO HTML</span>
-<h2>What is HTML?</h2>
+<h2><a href="https://www.codecademy.com/paths/web-development/tracks/learn-html-web-dev-path/modules/learn-html-elements/lessons/intro-to-html/exercises/intro">What is HTML?</a></h2>
 Welcome to the world of code! Last year, millions of learners from our community started with HTML. Why? HTML is the skeleton of all web pages. It’s often the first language learned by marketers and designers and is core to front-end development work. If this is your first time touching code, we’re excited for what you’re about to create.
 
-So what exactly is HTML? HTML provides structure to the content appearing on a website, such as images, text, or videos. Right-click on any page on the internet, choose “Inspect,” and you’ll see HTML in a panel of your screen.
+So what exactly is HTML? HTML provides structure to the content appearing on a website, such as images, text, or videos. Right-click on any page on the internet, choose <code>Inspect</code>, and you’ll see HTML in a panel of your screen.
 
 <h3>HTML stands for HyperText Markup Language:</h3>
 A <strong>markup language</strong> is a computer language that <em>defines the structure and presentation of raw text</em>.
