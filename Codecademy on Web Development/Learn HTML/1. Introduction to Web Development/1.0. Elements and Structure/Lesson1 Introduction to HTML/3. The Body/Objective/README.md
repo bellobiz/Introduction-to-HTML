@@ -6,7 +6,7 @@
 <p>Once the file has a body, many different types of content – including text, images, and buttons – can be added to the body.</p>
 
 <img src="https://cdn-images-1.medium.com/max/800/1*JGZwcTQN3E5bbMcZ8_pj4g.png" alt="body element">
-<h5>Instructions</h5>
+<h4>Instructions</h4>
 <ol>
 <li>Add a body to your web page using the <code><b>&lt;body&gt;</b></code> element.</li>
 <li>Add the following code between your opening and closing body tags:</li>
