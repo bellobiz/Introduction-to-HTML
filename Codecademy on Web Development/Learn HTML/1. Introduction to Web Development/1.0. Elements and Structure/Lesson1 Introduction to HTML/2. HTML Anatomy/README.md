@@ -21,6 +21,3 @@
 <p>Study the <a href='https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/html+lesson+image.svg'>diagram</a> below to learn about the anatomy of HTML syntax. When you’re done, continue to the next exercise.</p> 
 
 <img src="https://cdn-images-1.medium.com/max/800/1*j7ijLkr1jR3Vh_DNTLh5oQ.png" alt="HTML Analogy Diagram">
-```python
-print('Hello World')
-```
