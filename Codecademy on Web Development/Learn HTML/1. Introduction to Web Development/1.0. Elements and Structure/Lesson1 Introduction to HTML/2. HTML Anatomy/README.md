@@ -18,3 +18,5 @@ Let’s quickly review each part of the element <a href='https://s3.amazonaws.co
 
 <h6>Instructions</h6>
 Study the <a href='https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/html+lesson+image.svg'>diagram</a> to the right to learn about the anatomy of HTML syntax. When you’re done, continue to the <code><b>Next</b></code> exercise. 
+
+<img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/html+lesson+image.svg" alt="HTML Analogy">
