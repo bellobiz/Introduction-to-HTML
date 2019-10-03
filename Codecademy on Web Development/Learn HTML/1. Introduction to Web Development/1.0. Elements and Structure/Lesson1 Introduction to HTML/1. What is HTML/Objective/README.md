@@ -1,4 +1,4 @@
-<a href=" http://ssqt.co/mQfpbL0"><span>INTRODUCTION TO HTML</span></a>
+<a href="http://ssqt.co/mQfpbL0"><span>INTRODUCTION TO HTML</span></a>
 <h2><a href="https://www.codecademy.com/paths/web-development/tracks/learn-html-web-dev-path/modules/learn-html-elements/lessons/intro-to-html/exercises/intro">What is HTML?</a></h2>
 Welcome to the world of code! Last year, millions of learners from our community started with HTML. Why? HTML is the skeleton of all web pages. It’s often the first language learned by marketers and designers and is core to front-end development work. If this is your first time touching code, we’re excited for what you’re about to create.
 
