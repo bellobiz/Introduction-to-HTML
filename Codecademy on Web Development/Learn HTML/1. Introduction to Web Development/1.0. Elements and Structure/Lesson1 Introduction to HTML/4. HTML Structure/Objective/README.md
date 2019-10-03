@@ -1,6 +1,6 @@
 <a href="http://ssqt.co/mQfpbL0"><span>INTRODUCTION TO HTML</span></a>
 <h2><a href="https://www.codecademy.com/paths/web-development/tracks/learn-html-web-dev-path/modules/learn-html-elements/lessons/intro-to-html/exercises/structure-html">HTML Structure</a></h2>
-<p><em>HTML is organized as a collection of family tree relationships</em>. As you saw in the last exercise, we placed <code><b>&lt;p&gt;</b></code> tags within <code><b>&lt;body&gt;</b></code> tags. When an element is contained inside another element, it is considered the <em>child</em> of that element. The child element is said to be <em>nested</em> inside of the <em>parent</em> element.</p>
+<p>HTML is organized as a collection of family tree relationships. As you saw in the last exercise, we placed <code><b>&lt;p&gt;</b></code> tags within <code><b>&lt;body&gt;</b></code> tags. When an element is contained inside another element, it is considered the <em>child</em> of that element. The child element is said to be <em>nested</em> inside of the <em>parent</em> element.</p>
 
 <img src="https://cdn-images-1.medium.com/max/800/1*Xlw1ULC03dj6pyJEV9HITg.png" alt="child element tag, p in parent tag, body">
 
