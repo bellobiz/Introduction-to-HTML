@@ -12,4 +12,4 @@ Learning HTML is the first step in creating websites, but even a bit of knowledg
 
 <h6>Instructions</h6>
 1.
-In the code editor to the right, type your name in between &lt;h1&gt; and &lt;/h1&gt;, then press <code><b>Run</b></code>.
+In the code editor to the right, type your name in between <code><b>&lt;h1&gt;</b></code> and <code><b>&lt;/h1&gt;</b></code>, then press <code><b>Run</b></code>.
