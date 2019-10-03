@@ -17,4 +17,4 @@ Let’s quickly review each part of the element <a href='https://s3.amazonaws.co
 <b>Closing tag</b> — the second HTML tag used to end an HTML element. Closing tags have a forward slash (/) inside of them, directly after the left angle bracket.
 
 <h6>Instructions</h6>
-<mark>Study</mark> the <a href='https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/html+lesson+image.svg'>diagram</a> to the right to learn about the anatomy of HTML syntax. When you’re done, continue to the <code><b>Next</b></code> exercise. 
+Study the <a href='https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/html+lesson+image.svg'>diagram</a> to the right to learn about the anatomy of HTML syntax. When you’re done, continue to the <code><b>Next</b></code> exercise. 
