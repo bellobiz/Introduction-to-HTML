@@ -14,7 +14,7 @@
 <p>
 Learning HTML is the first step in creating websites, but even a bit of knowledge can help you inject code snippets into newsletter, blog or website templates. As you continue learning, you can layer HTML with CSS and JavaScript to create visually compelling and dynamic websites. But for now, we’re going to focus on how to add and modify basic content on a page, like text, images, and videos. Don’t worry if the websites look ugly — we’re just getting started.</p>
 
-<h6>Instructions</h6>
+<h4>Instructions</h4>
 <ol>
 <li>In the code editor to the right, type your name in between <code><b>&lt;h1&gt;</b></code> and <code><b>&lt;/h1&gt;</b></code>, then press <b>Run</b>.</li>
 </ol>
