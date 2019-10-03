@@ -20,6 +20,6 @@ Understanding HTML hierarchy is important because child elements can inherit beh
 </p>
 <h4>Instructions</h4>
 <ol>
-<li>Add the paragraph below as a child of the div element.
-<img src="https://cdn-images-1.medium.com/max/800/1*PTbnB7zttjMogJVDs1y45A.png" alt="Add the paragraph below as a child of the div element."></li>
+<li><p>Add the paragraph below as a child of the div element.</p></li>
+<img src="https://cdn-images-1.medium.com/max/800/1*PTbnB7zttjMogJVDs1y45A.png" alt="Add the paragraph below as a child of the div element.">
 </ol>
