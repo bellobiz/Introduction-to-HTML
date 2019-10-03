@@ -8,7 +8,7 @@
 <ul>
 <li>HTML element (or simply, element) — a unit of content in an HTML document formed by HTML tags and the text or media it contains.</li>
 
-<li>HTML Tag — the <b>element name</b>, surrounded by an opening (<code><b>&lt;</b></code>) and closing (<code><b>&gt;</b></code>) angle bracket.</li>
+<li>HTML Tag — the element name, surrounded by an opening (<code><b>&lt;</b></code>) and closing (<code><b>&gt;</b></code>) angle bracket.</li>
 
 <li>Opening Tag — the first HTML tag used to start an HTML element. The tag type is surrounded by opening and closing angle brackets.</li>
 
