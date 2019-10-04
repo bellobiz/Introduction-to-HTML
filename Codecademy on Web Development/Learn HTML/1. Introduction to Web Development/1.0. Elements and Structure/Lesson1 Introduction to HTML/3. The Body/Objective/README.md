@@ -8,8 +8,7 @@
 <img src="https://cdn-images-1.medium.com/max/800/1*JGZwcTQN3E5bbMcZ8_pj4g.png" alt="body element">
 <h4>Instructions</h4>
 <ol>
-<li>Add a body to your web page using the <code><b>&lt;body&gt;</b></code> element.</li>
-<li>Add the following code between your opening and closing body tags:</li>
-</ol>
-
+<li><p>Add a body to your web page using the <code><b>&lt;body&gt;</b></code> element.</p></li>
+<li><p>Add the following code between your opening and closing body tags:</p></li>
 <img src="https://cdn-images-1.medium.com/max/800/1*FYt1e3FDngb2tBWWAlp2JQ.png" alt="body element">
+</ol>
